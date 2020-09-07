@@ -10,3 +10,5 @@ or
 ```
 >> python instaexport.py "messages.json" ""
 ```
+# Output
+Each conversation is exported to /direct_messages/{participants}.txt
